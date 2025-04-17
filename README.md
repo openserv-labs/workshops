@@ -1,18 +1,11 @@
 # OpenServ: AI Agents Workshop & Learning Materials
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg)](https://github.com/openserv)
-
-## Introduction
-
 This repository contains our workshops and learning materials dedicated to understanding and building AI agents. This collection offers resources that examine the "how" and the "why" of AI agent development.
 
 ## What You'll Find Here
 
 - **Workshops**: Hands-on, guided experiences designed to build practical skills in AI agent development
 - **Learning Modules**: Structured educational content exploring the theoretical foundations and practical applications of AI agents
-- **Code Examples**: Annotated implementations demonstrating core concepts and techniques
-- **Research Papers**: Curated collection of influential works that inform our understanding of AI agents
 - **Community Resources**: Guidelines for contribution, discussion, and collaborative growth
 
 ## Getting Started
@@ -25,14 +18,7 @@ git clone https://github.com/openserv-labs/workshops
 
 # Navigate to the repository directory
 cd workshops
-
-### Workshop Navigation
-
-Our workshops focus:
-
-1. **Foundations**: Understanding the core architecture of AI agents
-2. **Agency & Autonomy**: Exploring decision-making frameworks and agent independence
-3. **Ethical Considerations**: Addressing responsibility, transparency, and social impact
+```
 
 Each workshop directory contains:
 - README with learning objectives and background
@@ -50,7 +36,6 @@ Areas where we particularly value contributions:
 - Translations of existing content
 - Additional code examples
 - Documentation improvements
-- Bug fixes and feature enhancements
 
 ## License
 

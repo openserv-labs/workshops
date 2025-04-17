@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository provides a comprehensive example of building an AI agent for the OpenServ platform using OpenServ API, Python and FastAPI. Building upon the OpenServ API Development Guide, this implementation serves as a practical reference for developers looking to create intelligent agents that can handle tasks and respond to chat messages.
-
-The repository includes an Ethical Contrast Agent which demonstrates ethical vs. unethical AI behavior as an educational tool.
+This repository provides an example of building an AI agent for the OpenServ platform using OpenServ API, Python and FastAPI. 
 
 Need more details? Check our step-by-step guide on [how to use OpenServ API](https://docs.openserv.ai/getting-started/agent-tutorial)
 
