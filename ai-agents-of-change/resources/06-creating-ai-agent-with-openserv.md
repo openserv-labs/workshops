@@ -1,6 +1,4 @@
-# OpenServ Labs
-
-
+# OpenServ
 
 ## How OpenServ Facilitates Agent Development
 
