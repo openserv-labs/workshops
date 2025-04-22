@@ -19,7 +19,7 @@
 
 ## PART 2: Ethical Reflection (30min)
 
-- Introduction to AI Ethics (5 minutes)
+- Introduction to [AI Ethics](resources/08-ethics-introduction.md) (5 minutes)
 - Solo activity (10min)
     - Reading material 
     - Filling in [AI Ethics Canvas](resources/07-ethics-canvas.md) for their agents
