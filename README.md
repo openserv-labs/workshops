@@ -20,6 +20,13 @@ git clone https://github.com/openserv-labs/workshops
 cd workshops
 ```
 
+![Repo](https://github.com/user-attachments/assets/63f412f1-7f6d-4851-9c99-b8d185a2f1a6)
+
+Create an account on OpenServ
+
+![OpenServ](https://github.com/user-attachments/assets/15638047-207b-469b-876d-3f7510264646)
+
+
 Each workshop directory contains:
 - README with learning objectives and background
 - Setup instructions
