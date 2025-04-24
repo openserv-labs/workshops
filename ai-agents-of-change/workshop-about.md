@@ -39,7 +39,7 @@ You can also use this material as a self-study as we tried to have all the spoke
 
 ### Paloma Oliveira
 
-I’m a wholehearted explorer and community-driven developer, advocating for FOSS while blending art, technology, and inclusion.
+I’m a wholehearted explorer and community-driven developer, advocating for FOSS while blending art, technology, and inclusion. PyLadies Berlin organizer, Python Software Verband board member and Zentrum für Netzkunst co-founder, Paloma has kick started OpenServ developer advocate program. 
 
 ### Tereza Iofciu 
 

@@ -2,18 +2,18 @@
 
 ## PART 1: Build Your AI Agent (45min)
 
-- [Introduction](/resources/01-introduction.md) (5min)
+- [Introduction](workshop-about.md) (5min)
 - Understanding AI Agents (10min)
-    - What is an [AI Agent](resources/02-what-is-ai-agent.md)?
-    - [Mental Models](resources/03-mental-model-shift.md) 
-    - [AI Agent Design](resources/04-ai-agent-design.md)
-    - [Multi-agents](resources/05-multi-agents.md)
+    - What is an [AI Agent](resources/01-what-is-ai-agent.md)?
+    - [Mental Models](resources/02-mental-model-shift.md) 
+    - [AI Agent Design](resources/03-ai-agent-design.md)
+    - [Multi-agents](resources/04-multi-agents.md)
 - Pitch your agent! (5min)
     - Name of your agent
     - What does it do?
     - Why?
 - Hands-on: Creating an agent with OpenServ (20min) 
-    - Using [OpenServ](resources/06-creating-ai-agent-with-openserv.md) to create your agent
+    - Using [OpenServ](resources/05-creating-ai-agent-with-openserv.md) to create your agent
     - [AI Agent Tutorial](ai-agents-of-change/exercises/ai-agent-tutorial)
 - *Demo: AI Agent in Action (5min)
 
