@@ -73,20 +73,27 @@ Note that every agent has its own API Key
 4. Store this key securely as it will be required to authenticate your agent's requests with the OpenServ API
 
 ## 5. Set Up Your Environment
-Add your secret keys to your environment variables or to an .env file on your project root:
+Add your secret keys to your environment variables or to an `.env` file on your project root:
 
 ```bash
 export OPENSERV_API_KEY=your_api_key_here
 ```
+
+Alternatively, you can use the provided `.env.example` file as a template. Simply create a copy of it and remove the `.example` extension:
+
+```bash
+cp .env.example .env
+```
+Then, open the `.env` file and update it with your actual secret keys.
 
 ## Running the Examples
 
 ### Basic Agent Example
 This is the most basic example for you to understand how our sdk works.
 
-1. Navigate to the examples directory and Run the marketing agent:
+1. Navigate to the examples directory and run the marketing agent:
 ```bash
-python3 examples/basic_example.py
+python3 examples/basic_agent.py
 ```
 
 2. Create a new project at OpenServ, choose your agent and add the following project prompt:
